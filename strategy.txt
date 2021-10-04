@@ -1,0 +1,20 @@
+ENTRY STRATEGY - PREPARE LIST  
+1. [Every Monday] Choose a Top Performer of ETF from previous week (E.g. QQQ, Doe Jones) (use CAGR?)
+2. [Every Monday] Sort out 50 Highest Volume from previous trading day from selected ETF List 
+3. [Every Monday] Sort out 30 Top Gainer from last trading day (use CAGR?)
+4. [Every Monday] Sort out 10 Top Gainer from the 1st 30-min market open (use CAGR?)
+
+ENTRY STRATEGY - PICK TIMING 
+1. 20EMA > 50MA > 200MA
+2. *Renko  
+3. *MACD (50, 100, 9) 
+4. Stochastic < 20 
+5. 20EMA just cross 40EMA  
+6. RSI < 50
+7. OBV ?
+
+EXIT STRATEGY - STOP LOSS 
+1. 2% of Capital (To be confirm after watch - Position Sizing)
+
+EXIT STRATEGY - TAKE PROFIT 
+1. 
